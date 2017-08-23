@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>The blog of Клуб Машинного Обучения</title>
+ <title>The blog of </title>
  <link href="https://mlomsk.github.io//atom.xml" rel="self"/>
  <link href="https://mlomsk.github.io/"/>
- <updated>2017-08-23T18:17:45+00:00</updated>
+ <updated>2017-08-23T18:26:19+00:00</updated>
  <id>https://mlomsk.github.io/</id>
  <author>
-   <name>Клуб Машинного Обучения</name>
+   <name></name>
    <email></email>
  </author>
 
