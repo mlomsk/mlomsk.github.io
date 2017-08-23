@@ -4,7 +4,7 @@
  <title>The blog of Клуб Машинного Обучения</title>
  <link href="https://mlomsk.github.io//atom.xml" rel="self"/>
  <link href="https://mlomsk.github.io/"/>
- <updated>2017-08-23T17:54:00+00:00</updated>
+ <updated>2017-08-23T17:59:48+00:00</updated>
  <id>https://mlomsk.github.io/</id>
  <author>
    <name>Клуб Машинного Обучения</name>
@@ -28,7 +28,7 @@
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/assets/presentations/2017-07-19-what-is-ml.pdf&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/J611YjZlOLo?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/J611YjZlOLo?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;h1 id=&quot;Статистический-анализ-для-решения-задач-медицинской-диагностики&quot;&gt;Статистический анализ для решения задач медицинской диагностики&lt;/h1&gt;
 
@@ -49,9 +49,9 @@
 Сейчас работаю разработчиком в 7bits, но страсть к “странным затеям” не растерял. В последнее время сфокусировался на машинном обучении и анализе данных.
 Меня вдохновляет то, как математика, тервер в особенности, находит применение там.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://nbviewer.jupyter.org/urls/127.0.0.1/assets/presentations/2017-07-19-search-the-hidden.ipynb&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://nbviewer.jupyter.org/urls/mlomsk.github.io/assets/presentations/2017-07-19-search-the-hidden.ipynb&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/c3WurQcW1kM?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/c3WurQcW1kM?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </content>
  </entry>
  
@@ -70,7 +70,7 @@
 Почти всё время потратили на очистку признаков. Генерировали фичи - индексы массы тела, отклонения от нормы, среднее артериальное давление, полиномиальные штуки.
 До тюнинга моделей не дошли, только смотрели xgboost, ridge, простую нейронку.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://nbviewer.jupyter.org/urls/127.0.0.1/assets/presentations/2017-07-09-mlbootcamp_health.ipynb&quot;&gt;Слайды&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://nbviewer.jupyter.org/urls/mlomsk.github.io/assets/presentations/2017-07-09-mlbootcamp_health.ipynb&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -92,7 +92,7 @@
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://nbviewer.jupyter.org/github/mlomsk/ML_Workshop_10.06.2017/blob/master/main.ipynb&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/l0zQenMSDPo?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/l0zQenMSDPo?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </content>
  </entry>
  
@@ -111,7 +111,7 @@
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/assets/presentations/2017-05-27-dve_zadachi_ml.pdf&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/eKYl-f2S8ck?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/eKYl-f2S8ck?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;h1 id=&quot;ml-в-задаче-поиска-повторяющихся-вопросов&quot;&gt;ML в задаче поиска повторяющихся вопросов&lt;/h1&gt;
 
@@ -123,7 +123,7 @@
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/assets/presentations/2017-05-27-ml_quora.pdf&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/U8i0G5hguOg?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/U8i0G5hguOg?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;h1 id=&quot;ml-boot-camp-iv-Задача-с-секретом&quot;&gt;ML Boot Camp IV. Задача “с секретом”&lt;/h1&gt;
 
@@ -135,7 +135,7 @@
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/assets/presentations/2017-05-27-ml_bootcamp4.pdf&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/NuCT_kptiDI?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NuCT_kptiDI?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </content>
  </entry>
  
