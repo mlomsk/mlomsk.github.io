@@ -38,3 +38,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - .gitignore
+
+data:
+  theme:
+    name: Клуб Машинного Обучения
+    social:
+      vk: mlomsk
+      github: mlomsk

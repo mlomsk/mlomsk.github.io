@@ -1,33 +1,44 @@
 <!DOCTYPE html>
-<html class="mdc-typography">
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ site.data.theme.name }} - {{ page.title }}</title>
+  <meta name="author" content="{{ site.data.theme.name }}" />
+  <meta name="description" content="The blog of {{ site.data.theme.name }}" />
+  <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}" />
 
-    <link rel="stylesheet"
-          href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
-    <link rel="stylesheet"
-          href="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css">
-    <link rel="stylesheet"
-          href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:600,800" rel="stylesheet" type="text/css">
+  <link rel="alternate" type="application/atom+xml" title="{{ site.data.theme.name }}" href="{{site.url}}/atom.xml" />
+
+  <link rel="stylesheet" href="{{ site.github.url }}/assets/css/all.css">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha256-k2/8zcNbxVIh5mnQ52A0r3a6jAgMGxFJFE2707UxGCk= sha512-ZV9KawG2Legkwp3nAlxLIVFudTauWuBpC10uEafMHYL0Sarrz5A7G79kXh5+5+woxQ5HM559XX2UZjMJ36Wplg==" crossorigin="anonymous">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="theme-color" content="#ffffff">
 </head>
 <body>
-
-<header class="mdc-toolbar">
-    <div class="mdc-toolbar__row">
-        <section class="mdc-toolbar__section mdc-toolbar__section--align-start">
-            <span class="mdc-toolbar__title">{{ site.title }}</span>
-        </section>
+  <div class="container">
+    <div class="four columns sidebar">
+      {% include sidebar.html %}
     </div>
-</header>
 
+    <div class="eleven columns content">
+      {{ content }}
 
-<main>{{ content }}</main>
+      <div class="footer">
+        {% include footer.html %}
+      </div>
+    </div>
+  </div>
 
-<script src="https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js"></script>
-<script>window.mdc.autoInit();</script>
+{% include analytics.html %}
 </body>
 </html>
