@@ -1,0 +1,21 @@
+{
+    "name": "ML-Клуб в Омске",
+    "short_name": "ML-клуб",
+    "lang": "ru_RU",
+    "description": "Проводим встречи, где делимся опытом с боевых проектов, решаем задачи с kaggle и других платформ.",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}

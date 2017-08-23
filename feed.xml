@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="https://mlomsk.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://mlomsk.github.io//" rel="alternate" type="text/html" /><updated>2017-08-23T17:54:00+00:00</updated><id>https://mlomsk.github.io//</id><title type="html">Клуб Машинного Обучения</title><subtitle>Проводим встречи, где делимся опытом с боевых проектов, решаем задачи с kaggle и других платформ.
+</subtitle><entry><title type="html">Лекции 19 июля 2017</title><link href="https://mlomsk.github.io//2017/07/19/lection/" rel="alternate" type="text/html" title="Лекции 19 июля 2017" /><published>2017-07-19T13:00:00+00:00</published><updated>2017-07-19T13:00:00+00:00</updated><id>https://mlomsk.github.io//2017/07/19/lection</id><content type="html" xml:base="https://mlomsk.github.io//2017/07/19/lection/">&lt;h1 id=&quot;Чем-является-и-не-является-machine-learning&quot;&gt;Чем является и не является machine learning?&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Евгений Тюменцев, CEO at HWdTech LLC&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Сейчас очень много разговоров вокруг машинного обучения. Хочется обсудить чем является данная технология, для каких задач она годится, какие у нее есть альтернативы. Начнем с математической постановки задачи машинного обучения.&lt;/p&gt;
+
+&lt;p&gt;Опыт работы в ИТ-отрасли 10 лет. Был программистом, системным архитектором, руководителем проектов. Специализируюсь на разработке серверных, многопоточных, высокопроизводительных приложений.
+16 лет преподаю в ОмГУ (ИМИТ, ФКН). Читаемые дисциплины: Проектирование ПО, Разработка серверов и серверных приложений.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/assets/presentations/2017-07-19-what-is-ml.pdf&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/J611YjZlOLo?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h1 id=&quot;Статистический-анализ-для-решения-задач-медицинской-диагностики&quot;&gt;Статистический анализ для решения задач медицинской диагностики&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Иван Гундырев, математик и аналитик в Три-Софт.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Использование методов анализа данных для решения задач медицинской диагностики - это одно из основных направлений в современной медицине. В докладе речь пойдет о задаче классификации на болен/здоров по результатам биохимических исследований.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/assets/presentations/2017-07-19-statistics-in-medicine.pdf&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;Увлекательное-путешествие-в-поисках-Глубинного-Смысла&quot;&gt;Увлекательное путешествие в поисках Глубинного Смысла&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Илья Сиганов, разработчик в 7bits, аспирант в ОмГУ.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Применение машинного обучения к зашифрованным данным, что может быть скучнее? Копаться в этих непонятных признаках, чтобы предсказать ничем не обоснованные классы объектов. Это же пустая трата времени! Но меня эта задача не на шутку затянула, я и сам был в шоке.
+В своем докладе я покажу, что делать если вам попадётся задача классификации, в которой понятно ровным счетом ничего про данные. Расскажу как развивалась моя мысль в ходе решения, как я боролся с Синдромом Поиска Глубинного Смысла. В целом рассмотрим то, как генерировать признаки из обфусцированных данных методами статистики и прочей магии.&lt;/p&gt;
+
+&lt;p&gt;Человек-хакатон, выпускник ФКН и теперь начинающий аспирант там же. До того как стал работать, участвовал во всех хакатонах подряд, где делал всякие странные штуки, например, аудиотермометр, вспышкопередатчик (sic!) и так далее.
+Сейчас работаю разработчиком в 7bits, но страсть к “странным затеям” не растерял. В последнее время сфокусировался на машинном обучении и анализе данных.
+Меня вдохновляет то, как математика, тервер в особенности, находит применение там.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://nbviewer.jupyter.org/urls/127.0.0.1/assets/presentations/2017-07-19-search-the-hidden.ipynb&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/c3WurQcW1kM?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="meetup" /><category term="lection" /><summary type="html">Чем является и не является machine learning?</summary></entry><entry><title type="html">Зарешка “Предсказание ССЗ”</title><link href="https://mlomsk.github.io//2017/07/09/solving/" rel="alternate" type="text/html" title="Зарешка &quot;Предсказание ССЗ&quot;" /><published>2017-07-09T05:00:00+00:00</published><updated>2017-07-09T05:00:00+00:00</updated><id>https://mlomsk.github.io//2017/07/09/solving</id><content type="html" xml:base="https://mlomsk.github.io//2017/07/09/solving/">&lt;p&gt;Что это за формат такой - зарешка?
+Это означает, что нет никаких докладов, спикеров или готовых материалов. Есть только участники. Идея заключается в синергии, в возможности обсудить идеи, подходы и методы решения проблем. Это брейншторм-вечеринка. Можно будет накидать прототипы и потренировать модельки.
+Если вы ещё не в теме, не знаете инструментов, то вы можете прийти и участвовать в генерации идей и посмотреть как и кто-что делает.&lt;/p&gt;
+
+&lt;h1 id=&quot;Результаты&quot;&gt;Результаты&lt;/h1&gt;
+
+&lt;p&gt;Сегодня собрались на нашей ламповой зарешке в офисе 7bits. Решили потыкать только “Предсказание ССЗ” http://mlbootcamp.ru/round/12/tasks/.
+Почти всё время потратили на очистку признаков. Генерировали фичи - индексы массы тела, отклонения от нормы, среднее артериальное давление, полиномиальные штуки.
+До тюнинга моделей не дошли, только смотрели xgboost, ridge, простую нейронку.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://nbviewer.jupyter.org/urls/127.0.0.1/assets/presentations/2017-07-09-mlbootcamp_health.ipynb&quot;&gt;Слайды&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="meetup" /><category term="solving" /><summary type="html">Что это за формат такой - зарешка? Это означает, что нет никаких докладов, спикеров или готовых материалов. Есть только участники. Идея заключается в синергии, в возможности обсудить идеи, подходы и методы решения проблем. Это брейншторм-вечеринка. Можно будет накидать прототипы и потренировать модельки. Если вы ещё не в теме, не знаете инструментов, то вы можете прийти и участвовать в генерации идей и посмотреть как и кто-что делает.</summary></entry><entry><title type="html">Мастер класс и 51-й IT-cубботник</title><link href="https://mlomsk.github.io//2017/06/10/workshop/" rel="alternate" type="text/html" title="Мастер класс и 51-й IT-cубботник" /><published>2017-06-10T05:00:00+00:00</published><updated>2017-06-10T05:00:00+00:00</updated><id>https://mlomsk.github.io//2017/06/10/workshop</id><content type="html" xml:base="https://mlomsk.github.io//2017/06/10/workshop/">&lt;p&gt;На мастер классе мы сразу возьмемся решать реальную задачу (предсказания победителя в онлайн-игре). Мы с вами пройдем полный путь решения задачи - начиная от анализа данных глазами и рисования графиков, проверки «бейзлайна», переходя к созданию новых признаков и заканчивая подбором гипер-параметров (улучшение параметров модели предсказания).&lt;/p&gt;
+
+&lt;p&gt;Заметим, что мы с вами не будем рассматривать самые основы ML&amp;amp;DA и работать с синтетическими датасетами, предполагая, что вы это либо знаете, либо захотите узнать потом после МК.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Требуемый уровень&lt;/strong&gt; — быть немного в теме МашОбуча.
+Будут использоваться следующие технологии: python3, pandas, sklearn, matplotlib и др.&lt;/p&gt;
+
+&lt;p&gt;Участники могут принести ноутбуки с собой и повторять действия или просто наблюдать за действиями на экране и задавать вопросы по ходу. Понимание всё равно появится, а исходники будут доступны всем желающим после мероприятия.&lt;/p&gt;
+
+&lt;p&gt;Если вы хотите повторять все действия на своем ноутбуке, то поставьте следующее ПО: python3, pip3 и библиотеки: numpy scipy matplotlib ipython jupyter pandas sympy nose scikit-learn seaborn. Как альтернатива, можно поставить анаконду www.continuum.io/downloads, которая включает в себя все пакеты из коробки.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://nbviewer.jupyter.org/github/mlomsk/ML_Workshop_10.06.2017/blob/master/main.ipynb&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/l0zQenMSDPo?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="meetup" /><category term="workshop" /><summary type="html">На мастер классе мы сразу возьмемся решать реальную задачу (предсказания победителя в онлайн-игре). Мы с вами пройдем полный путь решения задачи - начиная от анализа данных глазами и рисования графиков, проверки «бейзлайна», переходя к созданию новых признаков и заканчивая подбором гипер-параметров (улучшение параметров модели предсказания).</summary></entry><entry><title type="html">Лекции 27 мая 2017</title><link href="https://mlomsk.github.io//2017/05/27/lection/" rel="alternate" type="text/html" title="Лекции 27 мая 2017" /><published>2017-05-27T05:00:00+00:00</published><updated>2017-05-27T05:00:00+00:00</updated><id>https://mlomsk.github.io//2017/05/27/lection</id><content type="html" xml:base="https://mlomsk.github.io//2017/05/27/lection/">&lt;h1 id=&quot;ml-в-онлайн-играх-и-рекламе&quot;&gt;ML в онлайн играх и рекламе&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Артём Шевляков, Институт математики СО РАН, старший научный сотрудник.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Докладчик расскажет о своем опыте работы на поприще ML. Будут рассмотрены модели предсказания поведения пользователя в онлайн игре, а также алгоритмы оптимального размещения рекламных баннеров на сайтах. Кроме того, на примере данных задач будет рассмотрен вечный вопрос: “Почему в теории всё хорошо, а на практике не очень”.&lt;/p&gt;
+
+&lt;p&gt;Закончил матфак (ИМИТ) ОмГУ. Потом тихо-мирно работал (и сейчас работаю) в одном из научных институтов РАН. И доказывал бы я всю жизнь абстрактные теоремы по алгебре, но пару лет назад пригласили поучаствовать в коммерческом проекте, связанном с разработкой моделей ML. Вот об этом периоде моей жизни и пойдёт речь в докладе.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/assets/presentations/2017-05-27-dve_zadachi_ml.pdf&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/eKYl-f2S8ck?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h1 id=&quot;ml-в-задаче-поиска-повторяющихся-вопросов&quot;&gt;ML в задаче поиска повторяющихся вопросов&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Дмитрий Вальчук, ИМИТ 3-й курс, 7bits, backend разработчик.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;На этом докладе я расскажу о том, как совсем недавно я принимал участие в соревновании на kaggle.com по &lt;a href=&quot;https://www.kaggle.com/c/quora-question-pairs&quot;&gt;поиску вопросов&lt;/a&gt;, похожих по смыслу. Мы разберем некоторые приемы, которые помогут решить подобные задачи, а также увидим, какими особенностями обладают задачи на kaggle.com.&lt;/p&gt;
+
+&lt;p&gt;Только начинаю свой путь в ML и data science. Еще в школе занимался олимпиадным программированием, возможно, оттуда начался интерес к неочевидным и красивым методам решения задач. В ML больше всего привлекает то, что почти всегда результат зависит не только от того, какой алгоритм используется, а еще от того, какие признаки были выделены из исходных данных. Сейчас инетересуюсь задачами процессинга реальных текстов (NLP).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/assets/presentations/2017-05-27-ml_quora.pdf&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/U8i0G5hguOg?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h1 id=&quot;ml-boot-camp-iv-Задача-с-секретом&quot;&gt;ML Boot Camp IV. Задача “с секретом”&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Вячеслав Введенский, разработчик.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;В этом докладе я расскажу о том, как принимал участие в своём первом соревновании по ML на mlbootcamp.ru по решению задачи “с секретом” - с неизвестной содержательной постановкой. Расскажу о способах отбора и генерации признаков. А также о сложностях, которые подстерегают по пути к решению.&lt;/p&gt;
+
+&lt;p&gt;Закончил матфак ОмГУ. Работал 10 лет разработчиком ПО. Потом ушел в энергетику внедрять и сопровождать автоматизированные системы диспетчерского управления. Решил вернуться к истокам и начал с участия в соревнованиях по ML.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/assets/presentations/2017-05-27-ml_bootcamp4.pdf&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/NuCT_kptiDI?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="meetup" /><category term="lection" /><summary type="html">ML в онлайн играх и рекламе</summary></entry></feed>
