@@ -41,7 +41,6 @@ exclude:
 
 data:
   theme:
-    name: Клуб Машинного Обучения
     social:
       vk: mlomsk
       github: mlomsk
