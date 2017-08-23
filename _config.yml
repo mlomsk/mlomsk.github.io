@@ -32,7 +32,7 @@ kramdown:
 permalink: pretty
 highlighter: rouge
 
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
