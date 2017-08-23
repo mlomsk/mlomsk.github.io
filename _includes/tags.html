@@ -1,9 +1,9 @@
 <span >
   {% assign sorted_tags = site.tags | sort %}
-  
+
   {% for tag in sorted_tags %}
-    <a href="{{ '/tag/' | append:tag[0] }}.html" rel="tag">
-      {{tag[0]}} 
+    <a href="{{ '/tag/' | append:tag[0] }}" rel="tag">
+      {{tag[0]}}
   {% if forloop.last %}
     .
     {% else %}
