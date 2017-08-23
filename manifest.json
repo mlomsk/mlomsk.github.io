@@ -5,6 +5,11 @@
     "description": "Проводим встречи, где делимся опытом с боевых проектов, решаем задачи с kaggle и других платформ.",
     "icons": [
         {
+            "src": "/android-chrome-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
             "src": "/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
