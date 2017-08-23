@@ -36,6 +36,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - .gitignore
+  - vendor
 
 data:
   theme:
