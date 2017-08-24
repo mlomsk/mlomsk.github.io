@@ -34,5 +34,9 @@
     "background_color": "#ffffff",
     "display": "standalone",
     "start_url": "/",
-    "orientation": "any"
+    "orientation": "any",
+    "related_applications": [{
+      "platform": "web",
+      "url": "https://mlomsk.github.io/"
+    }]
 }
