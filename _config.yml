@@ -20,8 +20,15 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mlomsk.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 domain: "mlomsk.github.io"
-twitter_username: senior_sigan
-github_username:  blan4
+social:
+  vk: mlomsk
+  github: mlomsk
+
+analytics:
+  yandex:
+    id: 45721275
+  google:
+    id:
 
 # Build settings
 markdown: kramdown
@@ -39,12 +46,9 @@ exclude:
   - .gitignore
   - vendor
 
-data:
-  theme:
-    social:
-      vk: mlomsk
-      github: mlomsk
-
 username: blan4
 repo: mlomsk.github.io
 branch: gh-pages
+
+theme:
+  highlight_color:
