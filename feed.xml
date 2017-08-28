@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="https://mlomsk.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://mlomsk.github.io//" rel="alternate" type="text/html" /><updated>2017-08-24T07:18:31+00:00</updated><id>https://mlomsk.github.io//</id><title type="html">Клуб Машинного Обучения</title><subtitle>Проводим встречи, где делимся опытом с боевых проектов, решаем задачи с kaggle и других платформ.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="https://mlomsk.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://mlomsk.github.io//" rel="alternate" type="text/html" /><updated>2017-08-28T07:19:50+00:00</updated><id>https://mlomsk.github.io//</id><title type="html">Клуб Машинного Обучения</title><subtitle>Проводим встречи, где делимся опытом с боевых проектов, решаем задачи с kaggle и других платформ.
 </subtitle><entry><title type="html">Лекции 19 июля 2017</title><link href="https://mlomsk.github.io//2017/07/19/lection/" rel="alternate" type="text/html" title="Лекции 19 июля 2017" /><published>2017-07-19T13:00:00+00:00</published><updated>2017-07-19T13:00:00+00:00</updated><id>https://mlomsk.github.io//2017/07/19/lection</id><content type="html" xml:base="https://mlomsk.github.io//2017/07/19/lection/">&lt;h1 id=&quot;Чем-является-и-не-является-machine-learning&quot;&gt;Чем является и не является machine learning?&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Евгений Тюменцев, CEO at HWdTech LLC&lt;/em&gt;&lt;/p&gt;
@@ -19,6 +19,8 @@
 &lt;p&gt;Использование методов анализа данных для решения задач медицинской диагностики - это одно из основных направлений в современной медицине. В докладе речь пойдет о задаче классификации на болен/здоров по результатам биохимических исследований.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/assets/presentations/2017-07-19-statistics-in-medicine.pdf&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://pp.userapi.com/c639129/v639129166/331cc/8PbiWf1i_LE.jpg&quot; alt=&quot;Иван Гундырев - Фото&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;Увлекательное-путешествие-в-поисках-Глубинного-Смысла&quot;&gt;Увлекательное путешествие в поисках Глубинного Смысла&lt;/h1&gt;
 
