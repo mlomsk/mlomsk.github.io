@@ -1,58 +1,117 @@
 'use strict';
+
 var CACHE_NAME = 'site-cache-v1';
 var urlsToCache = [
   '/',
   '/assets/css/all.css',
-  '/logo.png'
+  '/logo.png',
+
+  "/2017/09/28/workshop/",
+
+  "/2017/07/19/lection/",
+
+  "/2017/07/09/solving/",
+
+  "/2017/06/10/workshop/",
+
+  "/2017/05/27/lection/",
+
+
+
+  
+
+  
+    "/assets/css/all.css",
+  
+
+  
+
+  
+    "/atom.xml",
+  
+
+  
+
+  
+    "/",
+  
+
+  
+
+  
+    "/tag/lection/",
+  
+
+  
+
+  
+    "/tag/meetup/",
+  
+
+  
+
+  
+    "/site.json",
+  
+
+  
+
+  
+    "/tag/solving/",
+  
+
+  
+
+  
+    "/sw.js",
+  
+
+  
+
+  
+    "/tag/workshop/",
+  
+
+  
+
+  
+    "/feed.xml",
+  
+
 ];
+
 
 self.addEventListener('install', function(event) {
   // Perform install steps
-  event.waitUntil(
-    caches.open(CACHE_NAME)
-      .then(function(cache) {
-        console.log('Opened cache');
-        return cache.addAll(urlsToCache);
-      })
-  );
+  event.waitUntil(caches.open(CACHE_NAME).then(function(cache) {
+    console.log('Opened cache');
+    return cache.addAll(urlsToCache);
+  }).catch(function(err) {
+    console.log('cahce add error', err);
+  }));
 });
 
 self.addEventListener('fetch', function(event) {
-  event.respondWith(
-    caches.match(event.request)
-      .then(function(response) {
-        // Cache hit - return response
-        if (response) {
-          return response;
-        }
-
-        // IMPORTANT: Clone the request. A request is a stream and
-        // can only be consumed once. Since we are consuming this
-        // once by cache and once by the browser for fetch, we need
-        // to clone the response.
-        var fetchRequest = event.request.clone();
-
-        return fetch(fetchRequest).then(
-          function(response) {
-            // Check if we received a valid response
-            if(!response || response.status !== 200 || response.type !== 'basic') {
-              return response;
-            }
-
-            // IMPORTANT: Clone the response. A response is a stream
-            // and because we want the browser to consume the response
-            // as well as the cache consuming the response, we need
-            // to clone it so we have two streams.
-            var responseToCache = response.clone();
-
-            caches.open(CACHE_NAME)
-              .then(function(cache) {
-                cache.put(event.request, responseToCache);
-              });
-
+  return event.respondWith(caches.open(CACHE_NAME).then(function(cache) {
+    return caches.match(event.request).then(function(response) {
+      return response || fetch(event.request.clone()).then(function(response) {
+          if(!response || response.status !== 200 || response.type !== 'basic') {
             return response;
           }
-        );
-      })
-    );
+
+          cache.put(event.request, response.clone());
+          return response;
+        }
+      );
+    });
+  }));
+});
+
+// network-first-cache-fallback
+self.addEventListener('fetch', function(event) {
+  return event.respondWith(
+    fetch(event.request).catch(function() {
+      return caches.match(event.request);
+    })
+  );
 });
