@@ -8,11 +8,11 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Клуб Машинного Обучения - Лекции 27 мая 2017</title>
+  <title>Клуб Машинного Обучения - Мастер класс по Tensor Flow</title>
   <meta name="author" content="Клуб Машинного Обучения" />
   <meta name="description" content="Проводим встречи, где делимся опытом с боевых проектов, решаем задачи с kaggle и других платформ.
 " />
-  <link rel="canonical" href="https://mlomsk.github.io//2017/05/27/lection/" />
+  <link rel="canonical" href="https://mlomsk.github.io//2017/09/28/workshop/" />
 
   <link rel="alternate" type="application/atom+xml" title="Клуб Машинного Обучения" href="https://mlomsk.github.io//atom.xml" />
 
@@ -134,50 +134,29 @@
 
     <div class="eleven columns content">
       <p class="meta">
-  May 27, 2017
+  September 28, 2017
   <a href="/">
     <i class="home fa fa-home"></i>
   </a>
 </p>
 
-<h1 class="title">Лекции 27 мая 2017</h1>
+<h1 class="title">Мастер класс по Tensor Flow</h1>
 
 <div id="post">
-  <h1 id="ml-в-онлайн-играх-и-рекламе">ML в онлайн играх и рекламе</h1>
+  <p>На мастер-классе по машинному обучению мы с вами построим несколько типов нейросетей для решения задачи распознавания рукописных цифр из набора данных MNIST. Мы познакомимся с TensorFlow - фреймворком для машинного обучения от Google, и обучим простую однослойную, глубокую и сверточную нейросети.</p>
 
-<p><em>Артём Шевляков, Институт математики СО РАН, старший научный сотрудник.</em></p>
+<p>С собой приносить ноутбук с установленным Python 3 и <a href="https://www.tensorflow.org/install/">TensorFlow (CPU-only)</a>, <a href="https://matplotlib.org/users/installing.html">matplotlib</a> и пакетом <a href="https://www.scipy.org/install.html">SciPy</a>, и <a href="http://jupyter.readthedocs.io/en/latest/install.html">jupyter-notebook</a>.
+Я рекомендую использовать ванильную установку Python и pip для установки пакетов. Не нужно ставить anaconda.</p>
 
-<p>Докладчик расскажет о своем опыте работы на поприще ML. Будут рассмотрены модели предсказания поведения пользователя в онлайн игре, а также алгоритмы оптимального размещения рекламных баннеров на сайтах. Кроме того, на примере данных задач будет рассмотрен вечный вопрос: “Почему в теории всё хорошо, а на практике не очень”.</p>
+<p><strong>Анонс</strong></p>
 
-<p>Закончил матфак (ИМИТ) ОмГУ. Потом тихо-мирно работал (и сейчас работаю) в одном из научных институтов РАН. И доказывал бы я всю жизнь абстрактные теоремы по алгебре, но пару лет назад пригласили поучаствовать в коммерческом проекте, связанном с разработкой моделей ML. Вот об этом периоде моей жизни и пойдёт речь в докладе.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ncmgioZqSMc?color=white&amp;theme=light&amp;rel=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe>
 
-<p><strong><a href="/assets/presentations/2017-05-27-dve_zadachi_ml.pdf">Слайды</a></strong></p>
+<p><strong><a href="https://nbviewer.jupyter.org/format/slides/github/mlomsk/mnist_workshop/blob/master/main.ipynb#/">Слайды</a></strong></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eKYl-f2S8ck?color=white&amp;theme=light&amp;rel=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe>
+<p><strong><a href="https://github.com/mlomsk/mnist_workshop">Исходники</a></strong></p>
 
-<h1 id="ml-в-задаче-поиска-повторяющихся-вопросов">ML в задаче поиска повторяющихся вопросов</h1>
-
-<p><em>Дмитрий Вальчук, ИМИТ 3-й курс, 7bits, backend разработчик.</em></p>
-
-<p>На этом докладе я расскажу о том, как совсем недавно я принимал участие в соревновании на kaggle.com по <a href="https://www.kaggle.com/c/quora-question-pairs">поиску вопросов</a>, похожих по смыслу. Мы разберем некоторые приемы, которые помогут решить подобные задачи, а также увидим, какими особенностями обладают задачи на kaggle.com.</p>
-
-<p>Только начинаю свой путь в ML и data science. Еще в школе занимался олимпиадным программированием, возможно, оттуда начался интерес к неочевидным и красивым методам решения задач. В ML больше всего привлекает то, что почти всегда результат зависит не только от того, какой алгоритм используется, а еще от того, какие признаки были выделены из исходных данных. Сейчас инетересуюсь задачами процессинга реальных текстов (NLP).</p>
-
-<p><strong><a href="/assets/presentations/2017-05-27-ml_quora.pdf">Слайды</a></strong></p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U8i0G5hguOg?color=white&amp;theme=light&amp;rel=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe>
-
-<h1 id="ml-boot-camp-iv-Задача-с-секретом">ML Boot Camp IV. Задача “с секретом”</h1>
-
-<p><em>Вячеслав Введенский, разработчик.</em></p>
-
-<p>В этом докладе я расскажу о том, как принимал участие в своём первом соревновании по ML на mlbootcamp.ru по решению задачи “с секретом” - с неизвестной содержательной постановкой. Расскажу о способах отбора и генерации признаков. А также о сложностях, которые подстерегают по пути к решению.</p>
-
-<p>Закончил матфак ОмГУ. Работал 10 лет разработчиком ПО. Потом ушел в энергетику внедрять и сопровождать автоматизированные системы диспетчерского управления. Решил вернуться к истокам и начал с участия в соревнованиях по ML.</p>
-
-<p><strong><a href="/assets/presentations/2017-05-27-ml_bootcamp4.pdf">Слайды</a></strong></p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NuCT_kptiDI?color=white&amp;theme=light&amp;rel=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe>
+<p><em>Видеозапись будет скоро</em></p>
 
 </div>
 
@@ -186,15 +165,15 @@
   <ul class="posts">
     
     <li>
-      <span>28 Sep 2017 &raquo;</span> <a href="/2017/09/28/workshop/">Мастер класс по Tensor Flow</a>
-    </li>
-    
-    <li>
       <span>19 Jul 2017 &raquo;</span> <a href="/2017/07/19/lection/">Лекции 19 июля 2017</a>
     </li>
     
     <li>
       <span>09 Jul 2017 &raquo;</span> <a href="/2017/07/09/solving/">Зарешка "Предсказание ССЗ"</a>
+    </li>
+    
+    <li>
+      <span>10 Jun 2017 &raquo;</span> <a href="/2017/06/10/workshop/">Мастер класс и 51-й IT-cубботник</a>
     </li>
     
   </ul>
@@ -209,8 +188,8 @@
         
       </a>
 
-      <a href="/tag/lection" rel="tag"> 
-         lection
+      <a href="/tag/workshop" rel="tag"> 
+         workshop
         
         .
         
