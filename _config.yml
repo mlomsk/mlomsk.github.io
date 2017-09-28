@@ -49,6 +49,3 @@ exclude:
 username: blan4
 repo: mlomsk.github.io
 branch: gh-pages
-
-theme:
-  highlight_color:
