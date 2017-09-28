@@ -47,18 +47,27 @@ ul {
   list-style: disc;
 }
 
+a.post-url {
+  color: black;
+  text-decoration: none;
+}
+
+.blue {
+  color: #3e50b4;
+}
+
 a {
-  color: {{ site.theme.highlight_color }};
+  color: #black;
   text-decoration: none;
 }
 
 a:hover {
-  color: {{ site.theme.highlight_color }};
+  color: #black;
   text-decoration: underline;
 }
 
 a:visited {
-  color: {{ site.theme.highlight_color }};
+  color: #black;
 }
 
 table {
