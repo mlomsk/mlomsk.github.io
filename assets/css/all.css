@@ -654,6 +654,10 @@ img {
   margin-right: auto;
 }
 
+img.main {
+  width: 100%;
+}
+
 ul.posts {
   margin-top: 0;
   list-style-type: none;
@@ -858,6 +862,11 @@ ul.topics li {
   font-size: 14px;
   color: rgb(113, 112, 112);
   font-family: 'Lucida Console', 'Andale Mono', monospace;
+}
+
+.vk-widget {
+  margin-top: 30px;
+  margin-left: 0px;
 }
 
 /*

@@ -89,6 +89,15 @@
   
 </div>
 
+    <div class="vk-widget">
+    <script type="text/javascript" src="//vk.com/js/api/openapi.js?150"></script>
+
+    <!-- VK Widget -->
+    <div id="vk_groups"></div>
+    <script type="text/javascript">
+    VK.Widgets.Group("vk_groups", {mode: 3}, 141957789);
+    </script>
+</div>
   </div>
 
   <div id="tags">
@@ -211,19 +220,34 @@
   <link rel="stylesheet" href="/assets/css/all.css">
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha256-k2/8zcNbxVIh5mnQ52A0r3a6jAgMGxFJFE2707UxGCk= sha512-ZV9KawG2Legkwp3nAlxLIVFudTauWuBpC10uEafMHYL0Sarrz5A7G79kXh5+5+woxQ5HM559XX2UZjMJ36Wplg==" crossorigin="anonymous">
 
-  <script>
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', function() {
-        navigator.serviceWorker.register('/sw.js').then(function(registration) {
-          // Registration was successful
-          console.log('ServiceWorker registration successful with scope: ', registration.scope);
-        }, function(err) {
-          // registration failed :(
-          console.log('ServiceWorker registration failed: ', err);
-        });
-      });
-    }
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/lightslider/1.1.6/css/lightslider.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightslider/1.1.6/js/lightslider.min.js"></script>
+
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $("#lightSlider").lightSlider({
+        loop: true,
+        item: 1
+      }); 
+    });
   </script>
+
+
+  <!-- <script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function() {
+      navigator.serviceWorker.register('/sw.js').then(function(registration) {
+        // Registration was successful
+        console.log('ServiceWorker registration successful with scope: ', registration.scope);
+      }, function(err) {
+        // registration failed :(
+        console.log('ServiceWorker registration failed: ', err);
+      });
+    });
+  }
+</script> -->
   
 
 

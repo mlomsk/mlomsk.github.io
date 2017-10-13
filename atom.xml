@@ -4,7 +4,7 @@
  <title>The blog of Клуб Машинного Обучения</title>
  <link href="https://mlomsk.github.io//atom.xml" rel="self"/>
  <link href="https://mlomsk.github.io/"/>
- <updated>2017-09-28T17:52:35+00:00</updated>
+ <updated>2017-10-13T11:04:14+00:00</updated>
  <id>https://mlomsk.github.io/</id>
  <author>
    <name>Клуб Машинного Обучения</name>
@@ -17,7 +17,27 @@
    <link href="https://mlomsk.github.io//2017/09/28/workshop/"/>
    <updated>2017-09-28T12:30:00+00:00</updated>
    <id>https://mlomsk.github.io//2017/09/28/workshop</id>
-   <content type="html">&lt;p&gt;На мастер-классе по машинному обучению мы с вами построим несколько типов нейросетей для решения задачи распознавания рукописных цифр из набора данных MNIST. Мы познакомимся с TensorFlow - фреймворком для машинного обучения от Google, и обучим простую однослойную, глубокую и сверточную нейросети.&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://vk.com/album-144949425_247820778&quot;&gt;Фото&lt;/a&gt;&lt;/p&gt;
+
+&lt;div&gt;
+    
+    &lt;ul id=&quot;lightSlider&quot;&gt;
+      
+        &lt;img src=&quot;https://pp.userapi.com/c841232/v841232410/2698e/iGrPDwIUsyE.jpg&quot; alt=&quot;&quot; /&gt;
+      
+        &lt;img src=&quot;https://pp.userapi.com/c841232/v841232410/269a2/2AC9gEYDd44.jpg&quot; alt=&quot;&quot; /&gt;
+      
+        &lt;img src=&quot;https://pp.userapi.com/c841232/v841232410/269b6/4g3ff205UTs.jpg&quot; alt=&quot;&quot; /&gt;
+      
+        &lt;img src=&quot;https://pp.userapi.com/c841232/v841232410/269c0/fGaNqdHFsJs.jpg&quot; alt=&quot;&quot; /&gt;
+      
+        &lt;img src=&quot;https://pp.userapi.com/c841232/v841232410/26966/TvoJ8B51Hzo.jpg&quot; alt=&quot;&quot; /&gt;
+      
+    &lt;/ul&gt;
+    
+&lt;/div&gt;
+
+&lt;p&gt;На мастер-классе по машинному обучению мы с вами построим несколько типов нейросетей для решения задачи распознавания рукописных цифр из набора данных MNIST. Мы познакомимся с TensorFlow - фреймворком для машинного обучения от Google, и обучим простую однослойную, глубокую и сверточную нейросети.&lt;/p&gt;
 
 &lt;p&gt;С собой приносить ноутбук с установленным Python 3 и &lt;a href=&quot;https://www.tensorflow.org/install/&quot;&gt;TensorFlow (CPU-only)&lt;/a&gt;, &lt;a href=&quot;https://matplotlib.org/users/installing.html&quot;&gt;matplotlib&lt;/a&gt; и пакетом &lt;a href=&quot;https://www.scipy.org/install.html&quot;&gt;SciPy&lt;/a&gt;, и &lt;a href=&quot;http://jupyter.readthedocs.io/en/latest/install.html&quot;&gt;jupyter-notebook&lt;/a&gt;.
 Я рекомендую использовать ванильную установку Python и pip для установки пакетов. Не нужно ставить anaconda.&lt;/p&gt;
@@ -103,7 +123,13 @@
    <link href="https://mlomsk.github.io//2017/06/10/workshop/"/>
    <updated>2017-06-10T05:00:00+00:00</updated>
    <id>https://mlomsk.github.io//2017/06/10/workshop</id>
-   <content type="html">&lt;p&gt;На мастер классе мы сразу возьмемся решать реальную задачу (предсказания победителя в онлайн-игре). Мы с вами пройдем полный путь решения задачи - начиная от анализа данных глазами и рисования графиков, проверки «бейзлайна», переходя к созданию новых признаков и заканчивая подбором гипер-параметров (улучшение параметров модели предсказания).&lt;/p&gt;
+   <content type="html">&lt;div&gt;
+    
+        &lt;img class=&quot;main&quot; src=&quot;https://pp.userapi.com/c636727/v636727509/61c9a/2T12gIO_xFU.jpg&quot; alt=&quot;&quot; /&gt;
+    
+&lt;/div&gt;
+
+&lt;p&gt;На мастер классе мы сразу возьмемся решать реальную задачу (предсказания победителя в онлайн-игре). Мы с вами пройдем полный путь решения задачи - начиная от анализа данных глазами и рисования графиков, проверки «бейзлайна», переходя к созданию новых признаков и заканчивая подбором гипер-параметров (улучшение параметров модели предсказания).&lt;/p&gt;
 
 &lt;p&gt;Заметим, что мы с вами не будем рассматривать самые основы ML&amp;amp;DA и работать с синтетическими датасетами, предполагая, что вы это либо знаете, либо захотите узнать потом после МК.&lt;/p&gt;
 
@@ -125,7 +151,33 @@
    <link href="https://mlomsk.github.io//2017/05/27/lection/"/>
    <updated>2017-05-27T05:00:00+00:00</updated>
    <id>https://mlomsk.github.io//2017/05/27/lection</id>
-   <content type="html">&lt;h1 id=&quot;ml-в-онлайн-играх-и-рекламе&quot;&gt;ML в онлайн играх и рекламе&lt;/h1&gt;
+   <content type="html">&lt;p&gt;27 мая прошла первая встреча клуба машинного обучения в Омске. Мероприятие стало открытием для сообщества по машинному обучению в Омске.&lt;/p&gt;
+
+&lt;p&gt;Мы с вами послушали доклады про два диаметрально противоположных подхода к применению ML. 
+С одной стороны сугубо практический – всё серьезно, настоящий продакшен, реальные пользователи и деньги. 
+С другой – спортивно-соревновательный, где важен 5-ый знак после запятой для качества предсказания модели, данные идеально подготовлены, а задача предельно ясна (а может и нет xD).&lt;/p&gt;
+
+&lt;p&gt;После докладов провели питчи «идей», где поделились проблемами и обсудили с участниками, можно ли решит эту проблему методами ML эффективно.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://vk.com/album-141957789_248472833&quot;&gt;Фото&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div&gt;
+    
+    &lt;ul id=&quot;lightSlider&quot;&gt;
+      
+        &lt;img src=&quot;https://pp.userapi.com/c638030/v638030003/41f7a/3m4Pz1q0bsg.jpg&quot; alt=&quot;&quot; /&gt;
+      
+        &lt;img src=&quot;https://pp.userapi.com/c638030/v638030003/41f70/-K-j4xTPolc.jpg&quot; alt=&quot;&quot; /&gt;
+      
+        &lt;img src=&quot;https://pp.userapi.com/c638030/v638030003/41f84/5NuJdH6AkgE.jpg&quot; alt=&quot;&quot; /&gt;
+      
+        &lt;img src=&quot;https://pp.userapi.com/c638030/v638030003/41f66/FavyWyZuQ8A.jpg&quot; alt=&quot;&quot; /&gt;
+      
+    &lt;/ul&gt;
+    
+&lt;/div&gt;
+
+&lt;h1 id=&quot;ml-в-онлайн-играх-и-рекламе&quot;&gt;ML в онлайн играх и рекламе&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Артём Шевляков, Институт математики СО РАН, старший научный сотрудник.&lt;/em&gt;&lt;/p&gt;
 

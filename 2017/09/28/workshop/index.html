@@ -89,6 +89,15 @@
   
 </div>
 
+    <div class="vk-widget">
+    <script type="text/javascript" src="//vk.com/js/api/openapi.js?150"></script>
+
+    <!-- VK Widget -->
+    <div id="vk_groups"></div>
+    <script type="text/javascript">
+    VK.Widgets.Group("vk_groups", {mode: 3}, 141957789);
+    </script>
+</div>
   </div>
 
   <div id="tags">
@@ -143,7 +152,27 @@
 <h1 class="title">Мастер класс по Tensor Flow</h1>
 
 <div id="post">
-  <p>На мастер-классе по машинному обучению мы с вами построим несколько типов нейросетей для решения задачи распознавания рукописных цифр из набора данных MNIST. Мы познакомимся с TensorFlow - фреймворком для машинного обучения от Google, и обучим простую однослойную, глубокую и сверточную нейросети.</p>
+  <p><a href="https://vk.com/album-144949425_247820778">Фото</a></p>
+
+<div>
+    
+    <ul id="lightSlider">
+      
+        <img src="https://pp.userapi.com/c841232/v841232410/2698e/iGrPDwIUsyE.jpg" alt="" />
+      
+        <img src="https://pp.userapi.com/c841232/v841232410/269a2/2AC9gEYDd44.jpg" alt="" />
+      
+        <img src="https://pp.userapi.com/c841232/v841232410/269b6/4g3ff205UTs.jpg" alt="" />
+      
+        <img src="https://pp.userapi.com/c841232/v841232410/269c0/fGaNqdHFsJs.jpg" alt="" />
+      
+        <img src="https://pp.userapi.com/c841232/v841232410/26966/TvoJ8B51Hzo.jpg" alt="" />
+      
+    </ul>
+    
+</div>
+
+<p>На мастер-классе по машинному обучению мы с вами построим несколько типов нейросетей для решения задачи распознавания рукописных цифр из набора данных MNIST. Мы познакомимся с TensorFlow - фреймворком для машинного обучения от Google, и обучим простую однослойную, глубокую и сверточную нейросети.</p>
 
 <p>С собой приносить ноутбук с установленным Python 3 и <a href="https://www.tensorflow.org/install/">TensorFlow (CPU-only)</a>, <a href="https://matplotlib.org/users/installing.html">matplotlib</a> и пакетом <a href="https://www.scipy.org/install.html">SciPy</a>, и <a href="http://jupyter.readthedocs.io/en/latest/install.html">jupyter-notebook</a>.
 Я рекомендую использовать ванильную установку Python и pip для установки пакетов. Не нужно ставить anaconda.</p>
@@ -214,19 +243,34 @@
   <link rel="stylesheet" href="/assets/css/all.css">
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha256-k2/8zcNbxVIh5mnQ52A0r3a6jAgMGxFJFE2707UxGCk= sha512-ZV9KawG2Legkwp3nAlxLIVFudTauWuBpC10uEafMHYL0Sarrz5A7G79kXh5+5+woxQ5HM559XX2UZjMJ36Wplg==" crossorigin="anonymous">
 
-  <script>
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', function() {
-        navigator.serviceWorker.register('/sw.js').then(function(registration) {
-          // Registration was successful
-          console.log('ServiceWorker registration successful with scope: ', registration.scope);
-        }, function(err) {
-          // registration failed :(
-          console.log('ServiceWorker registration failed: ', err);
-        });
-      });
-    }
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/lightslider/1.1.6/css/lightslider.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightslider/1.1.6/js/lightslider.min.js"></script>
+
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $("#lightSlider").lightSlider({
+        loop: true,
+        item: 1
+      }); 
+    });
   </script>
+
+
+  <!-- <script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function() {
+      navigator.serviceWorker.register('/sw.js').then(function(registration) {
+        // Registration was successful
+        console.log('ServiceWorker registration successful with scope: ', registration.scope);
+      }, function(err) {
+        // registration failed :(
+        console.log('ServiceWorker registration failed: ', err);
+      });
+    });
+  }
+</script> -->
   
 
 

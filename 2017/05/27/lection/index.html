@@ -89,6 +89,15 @@
   
 </div>
 
+    <div class="vk-widget">
+    <script type="text/javascript" src="//vk.com/js/api/openapi.js?150"></script>
+
+    <!-- VK Widget -->
+    <div id="vk_groups"></div>
+    <script type="text/javascript">
+    VK.Widgets.Group("vk_groups", {mode: 3}, 141957789);
+    </script>
+</div>
   </div>
 
   <div id="tags">
@@ -143,7 +152,33 @@
 <h1 class="title">Лекции 27 мая 2017</h1>
 
 <div id="post">
-  <h1 id="ml-в-онлайн-играх-и-рекламе">ML в онлайн играх и рекламе</h1>
+  <p>27 мая прошла первая встреча клуба машинного обучения в Омске. Мероприятие стало открытием для сообщества по машинному обучению в Омске.</p>
+
+<p>Мы с вами послушали доклады про два диаметрально противоположных подхода к применению ML. 
+С одной стороны сугубо практический – всё серьезно, настоящий продакшен, реальные пользователи и деньги. 
+С другой – спортивно-соревновательный, где важен 5-ый знак после запятой для качества предсказания модели, данные идеально подготовлены, а задача предельно ясна (а может и нет xD).</p>
+
+<p>После докладов провели питчи «идей», где поделились проблемами и обсудили с участниками, можно ли решит эту проблему методами ML эффективно.</p>
+
+<p><strong><a href="https://vk.com/album-141957789_248472833">Фото</a></strong></p>
+
+<div>
+    
+    <ul id="lightSlider">
+      
+        <img src="https://pp.userapi.com/c638030/v638030003/41f7a/3m4Pz1q0bsg.jpg" alt="" />
+      
+        <img src="https://pp.userapi.com/c638030/v638030003/41f70/-K-j4xTPolc.jpg" alt="" />
+      
+        <img src="https://pp.userapi.com/c638030/v638030003/41f84/5NuJdH6AkgE.jpg" alt="" />
+      
+        <img src="https://pp.userapi.com/c638030/v638030003/41f66/FavyWyZuQ8A.jpg" alt="" />
+      
+    </ul>
+    
+</div>
+
+<h1 id="ml-в-онлайн-играх-и-рекламе">ML в онлайн играх и рекламе</h1>
 
 <p><em>Артём Шевляков, Институт математики СО РАН, старший научный сотрудник.</em></p>
 
@@ -235,19 +270,34 @@
   <link rel="stylesheet" href="/assets/css/all.css">
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha256-k2/8zcNbxVIh5mnQ52A0r3a6jAgMGxFJFE2707UxGCk= sha512-ZV9KawG2Legkwp3nAlxLIVFudTauWuBpC10uEafMHYL0Sarrz5A7G79kXh5+5+woxQ5HM559XX2UZjMJ36Wplg==" crossorigin="anonymous">
 
-  <script>
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', function() {
-        navigator.serviceWorker.register('/sw.js').then(function(registration) {
-          // Registration was successful
-          console.log('ServiceWorker registration successful with scope: ', registration.scope);
-        }, function(err) {
-          // registration failed :(
-          console.log('ServiceWorker registration failed: ', err);
-        });
-      });
-    }
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/lightslider/1.1.6/css/lightslider.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightslider/1.1.6/js/lightslider.min.js"></script>
+
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $("#lightSlider").lightSlider({
+        loop: true,
+        item: 1
+      }); 
+    });
   </script>
+
+
+  <!-- <script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function() {
+      navigator.serviceWorker.register('/sw.js').then(function(registration) {
+        // Registration was successful
+        console.log('ServiceWorker registration successful with scope: ', registration.scope);
+      }, function(err) {
+        // registration failed :(
+        console.log('ServiceWorker registration failed: ', err);
+      });
+    });
+  }
+</script> -->
   
 
 
