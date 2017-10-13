@@ -13,3 +13,7 @@ before_script:
 script: ./script/cibuild
 exclude: [vendor]
 sudo: false
+notifications:
+  email:
+    on_success: never
+    on_failure: always

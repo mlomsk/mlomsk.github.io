@@ -1,0 +1,11 @@
+<div>
+    {% if page.photos.size == 1%}
+        <img class="main" src="{{ page.photos[0] }}" alt=''>
+    {% else %}
+    <ul id="lightSlider">
+      {% for photo in page.photos %}
+        <img src="{{ photo }}" alt=''>
+      {% endfor %}
+    </ul>
+    {% endif %}
+</div>
