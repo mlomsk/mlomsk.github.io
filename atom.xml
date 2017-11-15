@@ -4,7 +4,7 @@
  <title>The blog of Клуб Машинного Обучения</title>
  <link href="https://mlomsk.github.io//atom.xml" rel="self"/>
  <link href="https://mlomsk.github.io/"/>
- <updated>2017-10-13T11:11:24+00:00</updated>
+ <updated>2017-11-15T14:16:15+00:00</updated>
  <id>https://mlomsk.github.io/</id>
  <author>
    <name>Клуб Машинного Обучения</name>
@@ -42,9 +42,7 @@
 &lt;p&gt;С собой приносить ноутбук с установленным Python 3 и &lt;a href=&quot;https://www.tensorflow.org/install/&quot;&gt;TensorFlow (CPU-only)&lt;/a&gt;, &lt;a href=&quot;https://matplotlib.org/users/installing.html&quot;&gt;matplotlib&lt;/a&gt; и пакетом &lt;a href=&quot;https://www.scipy.org/install.html&quot;&gt;SciPy&lt;/a&gt;, и &lt;a href=&quot;http://jupyter.readthedocs.io/en/latest/install.html&quot;&gt;jupyter-notebook&lt;/a&gt;.
 Я рекомендую использовать ванильную установку Python и pip для установки пакетов. Не нужно ставить anaconda.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Анонс&lt;/strong&gt;&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ncmgioZqSMc?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yYNRS-jOVJo?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://nbviewer.jupyter.org/format/slides/github/mlomsk/mnist_workshop/blob/master/main.ipynb#/&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
