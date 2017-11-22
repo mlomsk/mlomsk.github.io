@@ -49,3 +49,6 @@ exclude:
 username: blan4
 repo: mlomsk.github.io
 branch: gh-pages
+
+disqus:
+  id: mlomsk

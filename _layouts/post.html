@@ -38,4 +38,8 @@ layout: default
       </a>
 {% unless forloop.last %}{% endunless %}{% endfor %}
   </span>
+
+  <div class="post-comments" itemprop="comment">
+    {% include disqus.html %}
+  </div>
 </div>
