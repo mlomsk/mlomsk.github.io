@@ -16,7 +16,7 @@ layout: default
 </div>
 
 <div id="related">
-  <h3>Related Posts</h3>
+  <h3>Читайте также</h3>
   <ul class="posts">
     {% for post in site.related_posts limit:3 %}
     <li>
@@ -25,7 +25,7 @@ layout: default
     {% endfor %}
   </ul>
 
-  <h3>Tags :</h3>
+  <h3>Тэги :</h3>
   <span>
     {% for tag in page.tags %}
       <a href="{{ '/tag/' | append:tag }}" rel="tag"> 
