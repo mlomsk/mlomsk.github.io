@@ -4,7 +4,7 @@
  <title>The blog of Клуб Машинного Обучения</title>
  <link href="https://mlomsk.github.io//atom.xml" rel="self"/>
  <link href="https://mlomsk.github.io/"/>
- <updated>2017-12-19T12:19:10+00:00</updated>
+ <updated>2017-12-19T12:53:17+00:00</updated>
  <id>https://mlomsk.github.io/</id>
  <author>
    <name>Клуб Машинного Обучения</name>
@@ -17,22 +17,24 @@
    <link href="https://mlomsk.github.io//2017/12/17/workshop/"/>
    <updated>2017-12-17T09:00:00+00:00</updated>
    <id>https://mlomsk.github.io//2017/12/17/workshop</id>
-   <content type="html">&lt;p&gt;Прошло на конференции &lt;a href=&quot;https://mobilatorium.org/fest#rec37958946&quot;&gt;Mobilatorium Fest&lt;/a&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;Встреча была на конференции &lt;a href=&quot;https://mobilatorium.org/fest#rec37958946&quot;&gt;Mobilatorium Fest&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/fvKU3W2.gifv&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;video poster=&quot;//i.imgur.com/fvKU3W2h.jpg&quot; preload=&quot;auto&quot; autoplay=&quot;autoplay&quot; muted=&quot;muted&quot; loop=&quot;loop&quot; webkit-playsinline=&quot;&quot; style=&quot;width: 300px; height: 300px;&quot;&gt;
+      &lt;source src=&quot;//i.imgur.com/fvKU3W2.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+    &lt;/video&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://nbviewer.jupyter.org/github/mlomsk/ML_Workshop_2017-12-17/blob/master/slides.ipynb&quot;&gt;Презентация&lt;/a&gt; и исходный код &lt;a href=&quot;https://github.com/mlomsk/ML_Workshop_2017-12-17&quot;&gt;андроид приложения&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://nbviewer.jupyter.org/github/mlomsk/ML_Workshop_2017-12-17/blob/master/slides.ipynb&quot;&gt;Презентация&lt;/a&gt;&lt;/strong&gt; и исходный код &lt;strong&gt;&lt;a href=&quot;https://github.com/mlomsk/ML_Workshop_2017-12-17&quot;&gt;андроид приложения&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;Использовалась дополнительная презенация с &lt;a href=&quot;/2017/09/28/workshop/&quot;&gt;другого мастер класса&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;На занятии использовалась дополнительная презенация с &lt;strong&gt;&lt;a href=&quot;/2017/09/28/workshop/&quot;&gt;другого мастер класса&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;Дополнительная-материалы&quot;&gt;Дополнительная материалы&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://keras.io/&quot;&gt;Keras&lt;/a&gt; - высокоуровневая библиотека для создания нейросетей&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.tensorflow.org/&quot;&gt;Tensorflow&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg&quot;&gt;Two minute papers&lt;/a&gt; - тут рассказывают коротко и понятно о чём научная статья&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/&quot;&gt;Arxiv&lt;/a&gt; - здесь публикуются самые новые научные статьи&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/blan4/FaceRecognitionHero&quot;&gt;FaceRecognitionHero&lt;/a&gt; - игра в которой нужно показывать нужную мимику, чтобы компьютер её распознал&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://keras.io/&quot;&gt;Keras&lt;/a&gt;&lt;/em&gt; - высокоуровневая библиотека для создания нейросетей&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://www.tensorflow.org/&quot;&gt;Tensorflow&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg&quot;&gt;Two minute papers&lt;/a&gt;&lt;/em&gt; - тут рассказывают коротко и понятно о чём научная статья&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://arxiv.org/&quot;&gt;Arxiv&lt;/a&gt;&lt;/em&gt; - здесь публикуются самые новые научные статьи&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://github.com/blan4/FaceRecognitionHero&quot;&gt;FaceRecognitionHero&lt;/a&gt;&lt;/em&gt; - игра в которой нужно показывать нужную мимику, чтобы компьютер её распознал&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>
