@@ -53,3 +53,8 @@ branch: gh-pages
 
 disqus:
   id: mlomsk
+
+collections:
+  blog:
+    output: true
+    permalink: /:collection/:year/:month/:day/:title

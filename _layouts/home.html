@@ -19,6 +19,21 @@ title: События
     {% endfor %}
   </ul>
 
+  <h2><i class="fa fa-book"></i>Блог</h2>
+  <ul id="blog-posts" class="posts">
+    {% for post in site.blog %}
+      <li>
+        <span>{{ post.date | date_to_string }} &raquo;</span>
+        <a class="post-url" href="{{ post.url }}">{{ post.title }}</a>
+        <ul class="topics">
+        {% for topic in post.topics %}
+          <li>{{topic}}</li>
+        {% endfor %}
+        </ul>
+      </li>
+    {% endfor %}
+  </ul>
+
   <h2><i class="fa fa-graduation-cap"></i> Обучение</h2>
   <ul id="edu-posts" class="posts">
     <li>
