@@ -21,9 +21,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mlomsk.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 domain: "mlomsk.github.io"
 social:
-  vk: http://bit.ly/mlomsk_vk
-  github: http://bit.ly/mlomsk_repo
-  telegram: http://bit.ly/mlomsk_chat
+  vk: http://mlomsk.1der.link/vk
+  github: http://mlomsk.1der.link/github
+  telegram: http://mlomsk.1der.link/telegram/chat
 
 analytics:
   yandex:
