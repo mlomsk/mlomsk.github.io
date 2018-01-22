@@ -4,7 +4,7 @@
  <title>The blog of Клуб Машинного Обучения</title>
  <link href="https://mlomsk.github.io//atom.xml" rel="self"/>
  <link href="https://mlomsk.github.io/"/>
- <updated>2018-01-22T10:29:21+00:00</updated>
+ <updated>2018-01-22T11:55:32+00:00</updated>
  <id>https://mlomsk.github.io/</id>
  <author>
    <name>Клуб Машинного Обучения</name>
@@ -27,7 +27,7 @@
 
 &lt;p&gt;На занятии использовалась дополнительная презенация с &lt;strong&gt;&lt;a href=&quot;/2017/09/28/workshop/&quot;&gt;другого мастер класса&lt;/a&gt;&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;h2 id=&quot;Дополнительная-материалы&quot;&gt;Дополнительная материалы&lt;/h2&gt;
+&lt;h2 id=&quot;дополнительная-материалы&quot;&gt;Дополнительная материалы&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;em&gt;&lt;a href=&quot;https://keras.io/&quot;&gt;Keras&lt;/a&gt;&lt;/em&gt; - высокоуровневая библиотека для создания нейросетей&lt;/li&gt;
@@ -84,7 +84,7 @@
    <link href="https://mlomsk.github.io//2017/07/19/lection/"/>
    <updated>2017-07-19T13:00:00+00:00</updated>
    <id>https://mlomsk.github.io//2017/07/19/lection</id>
-   <content type="html">&lt;h1 id=&quot;Чем-является-и-не-является-machine-learning&quot;&gt;Чем является и не является machine learning?&lt;/h1&gt;
+   <content type="html">&lt;h1 id=&quot;чем-является-и-не-является-machine-learning&quot;&gt;Чем является и не является machine learning?&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Евгений Тюменцев, CEO at HWdTech LLC&lt;/em&gt;&lt;/p&gt;
 
@@ -97,7 +97,7 @@
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/J611YjZlOLo?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;h1 id=&quot;Статистический-анализ-для-решения-задач-медицинской-диагностики&quot;&gt;Статистический анализ для решения задач медицинской диагностики&lt;/h1&gt;
+&lt;h1 id=&quot;статистический-анализ-для-решения-задач-медицинской-диагностики&quot;&gt;Статистический анализ для решения задач медицинской диагностики&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Иван Гундырев, математик и аналитик в Три-Софт.&lt;/em&gt;&lt;/p&gt;
 
@@ -107,7 +107,7 @@
 
 &lt;p&gt;&lt;img src=&quot;https://pp.userapi.com/c639129/v639129166/331cc/8PbiWf1i_LE.jpg&quot; alt=&quot;Иван Гундырев - Фото&quot; /&gt;&lt;/p&gt;
 
-&lt;h1 id=&quot;Увлекательное-путешествие-в-поисках-Глубинного-Смысла&quot;&gt;Увлекательное путешествие в поисках Глубинного Смысла&lt;/h1&gt;
+&lt;h1 id=&quot;увлекательное-путешествие-в-поисках-глубинного-смысла&quot;&gt;Увлекательное путешествие в поисках Глубинного Смысла&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Илья Сиганов, разработчик в 7bits, аспирант в ОмГУ.&lt;/em&gt;&lt;/p&gt;
 
@@ -133,7 +133,7 @@
 Это означает, что нет никаких докладов, спикеров или готовых материалов. Есть только участники. Идея заключается в синергии, в возможности обсудить идеи, подходы и методы решения проблем. Это брейншторм-вечеринка. Можно будет накидать прототипы и потренировать модельки.
 Если вы ещё не в теме, не знаете инструментов, то вы можете прийти и участвовать в генерации идей и посмотреть как и кто-что делает.&lt;/p&gt;
 
-&lt;h1 id=&quot;Результаты&quot;&gt;Результаты&lt;/h1&gt;
+&lt;h1 id=&quot;результаты&quot;&gt;Результаты&lt;/h1&gt;
 
 &lt;p&gt;Сегодня собрались на нашей ламповой зарешке в офисе 7bits. Решили потыкать только “Предсказание ССЗ” http://mlbootcamp.ru/round/12/tasks/.
 Почти всё время потратили на очистку признаков. Генерировали фичи - индексы массы тела, отклонения от нормы, среднее артериальное давление, полиномиальные штуки.
@@ -226,7 +226,7 @@
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/U8i0G5hguOg?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;h1 id=&quot;ml-boot-camp-iv-Задача-с-секретом&quot;&gt;ML Boot Camp IV. Задача “с секретом”&lt;/h1&gt;
+&lt;h1 id=&quot;ml-boot-camp-iv-задача-с-секретом&quot;&gt;ML Boot Camp IV. Задача “с секретом”&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Вячеслав Введенский, разработчик.&lt;/em&gt;&lt;/p&gt;
 
