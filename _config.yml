@@ -58,3 +58,6 @@ collections:
   blog:
     output: true
     permalink: /:collection/:year/:month/:day/:title
+  practise:
+    output: true
+    permalink: /:collection/:year/:month/:day/:title
