@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>The blog of Клуб Машинного Обучения</title>
- <link href="https://mlomsk.github.io//atom.xml" rel="self"/>
- <link href="https://mlomsk.github.io/"/>
- <updated>2018-02-11T11:50:18+00:00</updated>
- <id>https://mlomsk.github.io/</id>
+ <link href="https://mlomsk.github.io/atom.xml" rel="self"/>
+ <link href="https://mlomsk.github.io"/>
+ <updated>2018-02-11T12:35:54+00:00</updated>
+ <id>https://mlomsk.github.io</id>
  <author>
    <name>Клуб Машинного Обучения</name>
    <email>ilya.blan4@gmail.com</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Лекции 10 февраля 2017</title>
-   <link href="https://mlomsk.github.io//2018/02/10/lection/"/>
+   <link href="https://mlomsk.github.io/2018/02/10/lection/"/>
    <updated>2018-02-10T05:00:00+00:00</updated>
-   <id>https://mlomsk.github.io//2018/02/10/lection</id>
+   <id>https://mlomsk.github.io/2018/02/10/lection</id>
    <content type="html">&lt;h1 id=&quot;система-рекомендаций-в-интернет-магазине&quot;&gt;Система рекомендаций в интернет-магазине&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Артём Шатов&lt;/em&gt;&lt;/p&gt;
@@ -54,9 +54,9 @@
  
  <entry>
    <title>Мастер класс по Tensor Flow для Android</title>
-   <link href="https://mlomsk.github.io//2017/12/17/workshop/"/>
+   <link href="https://mlomsk.github.io/2017/12/17/workshop/"/>
    <updated>2017-12-17T09:00:00+00:00</updated>
-   <id>https://mlomsk.github.io//2017/12/17/workshop</id>
+   <id>https://mlomsk.github.io/2017/12/17/workshop</id>
    <content type="html">&lt;p&gt;Встреча была на конференции &lt;a href=&quot;https://mobilatorium.org/fest#rec37958946&quot;&gt;Mobilatorium Fest&lt;/a&gt;&lt;/p&gt;
 
 &lt;video poster=&quot;//i.imgur.com/fvKU3W2h.jpg&quot; preload=&quot;auto&quot; autoplay=&quot;autoplay&quot; muted=&quot;muted&quot; loop=&quot;loop&quot; webkit-playsinline=&quot;&quot; style=&quot;width: 300px; height: 300px;&quot;&gt;
@@ -81,9 +81,9 @@
  
  <entry>
    <title>Мастер класс по Tensor Flow</title>
-   <link href="https://mlomsk.github.io//2017/09/28/workshop/"/>
+   <link href="https://mlomsk.github.io/2017/09/28/workshop/"/>
    <updated>2017-09-28T12:30:00+00:00</updated>
-   <id>https://mlomsk.github.io//2017/09/28/workshop</id>
+   <id>https://mlomsk.github.io/2017/09/28/workshop</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://vk.com/album-144949425_247820778&quot;&gt;Фото&lt;/a&gt;&lt;/p&gt;
 
 &lt;div&gt;
@@ -121,9 +121,9 @@
  
  <entry>
    <title>Лекции 19 июля 2017</title>
-   <link href="https://mlomsk.github.io//2017/07/19/lection/"/>
+   <link href="https://mlomsk.github.io/2017/07/19/lection/"/>
    <updated>2017-07-19T13:00:00+00:00</updated>
-   <id>https://mlomsk.github.io//2017/07/19/lection</id>
+   <id>https://mlomsk.github.io/2017/07/19/lection</id>
    <content type="html">&lt;h1 id=&quot;чем-является-и-не-является-machine-learning&quot;&gt;Чем является и не является machine learning?&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;Евгений Тюменцев, CEO at HWdTech LLC&lt;/em&gt;&lt;/p&gt;
@@ -166,9 +166,9 @@
  
  <entry>
    <title>Зарешка "Предсказание ССЗ"</title>
-   <link href="https://mlomsk.github.io//2017/07/09/solving/"/>
+   <link href="https://mlomsk.github.io/2017/07/09/solving/"/>
    <updated>2017-07-09T05:00:00+00:00</updated>
-   <id>https://mlomsk.github.io//2017/07/09/solving</id>
+   <id>https://mlomsk.github.io/2017/07/09/solving</id>
    <content type="html">&lt;p&gt;Что это за формат такой - зарешка?
 Это означает, что нет никаких докладов, спикеров или готовых материалов. Есть только участники. Идея заключается в синергии, в возможности обсудить идеи, подходы и методы решения проблем. Это брейншторм-вечеринка. Можно будет накидать прототипы и потренировать модельки.
 Если вы ещё не в теме, не знаете инструментов, то вы можете прийти и участвовать в генерации идей и посмотреть как и кто-что делает.&lt;/p&gt;
@@ -185,9 +185,9 @@
  
  <entry>
    <title>Мастер класс и 51-й IT-cубботник</title>
-   <link href="https://mlomsk.github.io//2017/06/10/workshop/"/>
+   <link href="https://mlomsk.github.io/2017/06/10/workshop/"/>
    <updated>2017-06-10T05:00:00+00:00</updated>
-   <id>https://mlomsk.github.io//2017/06/10/workshop</id>
+   <id>https://mlomsk.github.io/2017/06/10/workshop</id>
    <content type="html">&lt;div&gt;
     
         &lt;img class=&quot;main&quot; src=&quot;https://pp.userapi.com/c636727/v636727509/61c9a/2T12gIO_xFU.jpg&quot; alt=&quot;&quot; /&gt;
@@ -213,9 +213,9 @@
  
  <entry>
    <title>Лекции 27 мая 2017</title>
-   <link href="https://mlomsk.github.io//2017/05/27/lection/"/>
+   <link href="https://mlomsk.github.io/2017/05/27/lection/"/>
    <updated>2017-05-27T05:00:00+00:00</updated>
-   <id>https://mlomsk.github.io//2017/05/27/lection</id>
+   <id>https://mlomsk.github.io/2017/05/27/lection</id>
    <content type="html">&lt;p&gt;27 мая прошла первая встреча клуба машинного обучения в Омске. Мероприятие стало открытием для сообщества по машинному обучению в Омске.&lt;/p&gt;
 
 &lt;p&gt;Мы с вами послушали доклады про два диаметрально противоположных подхода к применению ML. 
