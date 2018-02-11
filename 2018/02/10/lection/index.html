@@ -8,11 +8,11 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Клуб Машинного Обучения - Мастер класс и 51-й IT-cубботник</title>
+  <title>Клуб Машинного Обучения - Лекции 10 февраля 2017</title>
   <meta name="author" content="Клуб Машинного Обучения" />
   <meta name="description" content="Проводим встречи, где делимся опытом с боевых проектов, решаем задачи с kaggle и других платформ.
 " />
-  <link rel="canonical" href="https://mlomsk.github.io//2017/06/10/workshop/" />
+  <link rel="canonical" href="https://mlomsk.github.io//2018/02/10/lection/" />
 
   <link rel="alternate" type="application/atom+xml" title="Клуб Машинного Обучения" href="https://mlomsk.github.io//atom.xml" />
 
@@ -151,35 +151,47 @@
 
     <div class="eleven columns content">
       <p class="meta">
-  June 10, 2017
+  February 10, 2018
   <a href="/">
     <i class="home fa fa-home"></i>
   </a>
 </p>
 
-<h1 class="title">Мастер класс и 51-й IT-cубботник</h1>
+<h1 class="title">Лекции 10 февраля 2017</h1>
 
 <div id="post">
-  <div>
-    
-        <img class="main" src="https://pp.userapi.com/c636727/v636727509/61c9a/2T12gIO_xFU.jpg" alt="" />
-    
-</div>
+  <h1 id="система-рекомендаций-в-интернет-магазине">Система рекомендаций в интернет-магазине</h1>
 
-<p>На мастер классе мы сразу возьмемся решать реальную задачу (предсказания победителя в онлайн-игре). Мы с вами пройдем полный путь решения задачи - начиная от анализа данных глазами и рисования графиков, проверки «бейзлайна», переходя к созданию новых признаков и заканчивая подбором гипер-параметров (улучшение параметров модели предсказания).</p>
+<p><em>Артём Шатов</em></p>
 
-<p>Заметим, что мы с вами не будем рассматривать самые основы ML&amp;DA и работать с синтетическими датасетами, предполагая, что вы это либо знаете, либо захотите узнать потом после МК.</p>
+<p>На встрече ML клуба Артём расскажет как он написал и внедрил систему рекомендций на реальный продакшен! Пусть система и простая, но, как говорит Артём, она увеличила продажи, что очень хорошо.</p>
 
-<p><strong>Требуемый уровень</strong> — быть немного в теме МашОбуча.
-Будут использоваться следующие технологии: python3, pandas, sklearn, matplotlib и др.</p>
+<p>О докладчике:</p>
+<ul>
+  <li>2000-2004 ОАТК, техник по ремонту авто.</li>
+  <li>2004-2009 ОГИС, Выпусник: иформатик-аналитик.</li>
+  <li>2007-2010 PHP программист + сисадмин + ит-шник по любым проблемам.</li>
+  <li>2010-2011 фриланс.</li>
+  <li>С 2011 предпринимательство в сфере дистанционной торговли.</li>
+</ul>
 
-<p>Участники могут принести ноутбуки с собой и повторять действия или просто наблюдать за действиями на экране и задавать вопросы по ходу. Понимание всё равно появится, а исходники будут доступны всем желающим после мероприятия.</p>
+<p><strong><a href="/assets/presentations/2018-02-10-recomendations-shatov-artem.pdf">Слайды</a></strong></p>
 
-<p>Если вы хотите повторять все действия на своем ноутбуке, то поставьте следующее ПО: python3, pip3 и библиотеки: numpy scipy matplotlib ipython jupyter pandas sympy nose scikit-learn seaborn. Как альтернатива, можно поставить анаконду www.continuum.io/downloads, которая включает в себя все пакеты из коробки.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uyXO3qWdUaM?color=white&amp;theme=light&amp;rel=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe>
 
-<p><strong><a href="https://nbviewer.jupyter.org/github/mlomsk/ML_Workshop_10.06.2017/blob/master/main.ipynb">Слайды</a></strong></p>
+<h1 id="ml-в-распознавании-фраз">ML в распознавании фраз</h1>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l0zQenMSDPo?color=white&amp;theme=light&amp;rel=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe>
+<p><em>Илья Сиганов, разработчик в 7bits, аспирант в ОмГУ.</em></p>
+
+<p>Недавно на kaggle проходило соревнование <a href="https://www.kaggle.com/c/tensorflow-speech-recognition-challenge#description">tensorflow-speech-recognition-challenge</a> по распознаванию фраз. Было дано несколько гигабайт односекундных звуковых записей, в которых человек говорит какое-то одно слово: up, down, go и так далее. Всего было 10 слов + тишина и любые другие слова. Необходимо было построить классификатор для распознавания этих слов.<br />
+Илья расскажет как он в первый раз для себя настраивал нейросеть, обучал её на облаке с видеокартой.</p>
+
+<p>О докладчике:<br />
+Человек-хакатон, велосипедист, личинка датасаентиста. Выпускник ФКН и теперь начинающий аспирант там же. До того как стал работать в 7bits, участвовал во всех хакатонах подряд, где делал всякие странные штуки, например, аудиотермометр, вспышкопередатчик (sic!) и так далее. Последнее время копает в сторону машинного обучения и анализа данных. Докопался до открытия Омского клуба машинного обучения.</p>
+
+<p><strong><a href="/assets/presentations/2018-02-10-kaggle-speech-siganov-ilya.pdf">Слайды</a></strong></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7o0VLmqBXaM?color=white&amp;theme=light&amp;rel=0&amp;showinfo=0" frameborder="0" allowfullscreen=""></iframe>
 
 </div>
 
@@ -188,15 +200,15 @@
   <ul class="posts">
     
     <li>
-      <span>10 Feb 2018 &raquo;</span> <a href="/2018/02/10/lection/">Лекции 10 февраля 2017</a>
-    </li>
-    
-    <li>
       <span>17 Dec 2017 &raquo;</span> <a href="/2017/12/17/workshop/">Мастер класс по Tensor Flow для Android</a>
     </li>
     
     <li>
       <span>28 Sep 2017 &raquo;</span> <a href="/2017/09/28/workshop/">Мастер класс по Tensor Flow</a>
+    </li>
+    
+    <li>
+      <span>19 Jul 2017 &raquo;</span> <a href="/2017/07/19/lection/">Лекции 19 июля 2017</a>
     </li>
     
   </ul>
@@ -211,8 +223,15 @@
         
       </a>
 
-      <a href="/tag/workshop" rel="tag"> 
-         workshop
+      <a href="/tag/lection" rel="tag"> 
+         lection
+        
+          ,
+        
+      </a>
+
+      <a href="/tag/solving" rel="tag"> 
+         solving
         
         .
         
@@ -226,7 +245,7 @@
 
     <script>
         var disqus_config = function () {
-            this.page.identifier = 'mlomsk-/2017/06/10/workshop/';
+            this.page.identifier = 'mlomsk-/2018/02/10/lection/';
         };
 
         (function() { // DON'T EDIT BELOW THIS LINE

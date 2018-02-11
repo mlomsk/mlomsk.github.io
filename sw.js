@@ -6,6 +6,8 @@ var urlsToCache = [
   '/assets/css/all.css',
   '/logo.png',
 
+  "/2018/02/10/lection/",
+
   "/2017/12/17/workshop/",
 
   "/2017/09/28/workshop/",

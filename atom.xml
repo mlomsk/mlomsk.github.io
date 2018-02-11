@@ -4,13 +4,53 @@
  <title>The blog of Клуб Машинного Обучения</title>
  <link href="https://mlomsk.github.io//atom.xml" rel="self"/>
  <link href="https://mlomsk.github.io/"/>
- <updated>2018-01-25T12:19:20+00:00</updated>
+ <updated>2018-02-11T11:50:18+00:00</updated>
  <id>https://mlomsk.github.io/</id>
  <author>
    <name>Клуб Машинного Обучения</name>
    <email>ilya.blan4@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Лекции 10 февраля 2017</title>
+   <link href="https://mlomsk.github.io//2018/02/10/lection/"/>
+   <updated>2018-02-10T05:00:00+00:00</updated>
+   <id>https://mlomsk.github.io//2018/02/10/lection</id>
+   <content type="html">&lt;h1 id=&quot;система-рекомендаций-в-интернет-магазине&quot;&gt;Система рекомендаций в интернет-магазине&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Артём Шатов&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;На встрече ML клуба Артём расскажет как он написал и внедрил систему рекомендций на реальный продакшен! Пусть система и простая, но, как говорит Артём, она увеличила продажи, что очень хорошо.&lt;/p&gt;
+
+&lt;p&gt;О докладчике:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;2000-2004 ОАТК, техник по ремонту авто.&lt;/li&gt;
+  &lt;li&gt;2004-2009 ОГИС, Выпусник: иформатик-аналитик.&lt;/li&gt;
+  &lt;li&gt;2007-2010 PHP программист + сисадмин + ит-шник по любым проблемам.&lt;/li&gt;
+  &lt;li&gt;2010-2011 фриланс.&lt;/li&gt;
+  &lt;li&gt;С 2011 предпринимательство в сфере дистанционной торговли.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/assets/presentations/2018-02-10-recomendations-shatov-artem.pdf&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/uyXO3qWdUaM?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h1 id=&quot;ml-в-распознавании-фраз&quot;&gt;ML в распознавании фраз&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Илья Сиганов, разработчик в 7bits, аспирант в ОмГУ.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Недавно на kaggle проходило соревнование &lt;a href=&quot;https://www.kaggle.com/c/tensorflow-speech-recognition-challenge#description&quot;&gt;tensorflow-speech-recognition-challenge&lt;/a&gt; по распознаванию фраз. Было дано несколько гигабайт односекундных звуковых записей, в которых человек говорит какое-то одно слово: up, down, go и так далее. Всего было 10 слов + тишина и любые другие слова. Необходимо было построить классификатор для распознавания этих слов.&lt;br /&gt;
+Илья расскажет как он в первый раз для себя настраивал нейросеть, обучал её на облаке с видеокартой.&lt;/p&gt;
+
+&lt;p&gt;О докладчике:&lt;br /&gt;
+Человек-хакатон, велосипедист, личинка датасаентиста. Выпускник ФКН и теперь начинающий аспирант там же. До того как стал работать в 7bits, участвовал во всех хакатонах подряд, где делал всякие странные штуки, например, аудиотермометр, вспышкопередатчик (sic!) и так далее. Последнее время копает в сторону машинного обучения и анализа данных. Докопался до открытия Омского клуба машинного обучения.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/assets/presentations/2018-02-10-kaggle-speech-siganov-ilya.pdf&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7o0VLmqBXaM?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Мастер класс по Tensor Flow для Android</title>
