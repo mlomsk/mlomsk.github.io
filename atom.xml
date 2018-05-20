@@ -4,7 +4,7 @@
  <title>The blog of Клуб Машинного Обучения</title>
  <link href="https://mlomsk.github.io/atom.xml" rel="self"/>
  <link href="https://mlomsk.github.io"/>
- <updated>2018-03-22T17:56:26+00:00</updated>
+ <updated>2018-05-20T15:27:50+00:00</updated>
  <id>https://mlomsk.github.io</id>
  <author>
    <name>Клуб Машинного Обучения</name>
@@ -13,7 +13,54 @@
 
  
  <entry>
-   <title>Лекции 10 февраля 2017</title>
+   <title>Лекции 19 мая 2018</title>
+   <link href="https://mlomsk.github.io/2018/05/19/lection/"/>
+   <updated>2018-05-19T05:00:00+00:00</updated>
+   <id>https://mlomsk.github.io/2018/05/19/lection</id>
+   <content type="html">&lt;h1 id=&quot;сегментация-и-обработка-чеков-на-фотографии&quot;&gt;Сегментация и обработка чеков на фотографии&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Дмитрий Вальчук&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Докладчик расскажет о проблемах, с которыми сталкивались люди при попытке сделать документ с фотографии «красивеньким». Поделиться своими скромными успехами в этой области. Не зря же чеки собирали :)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/assets/presentations/2018-05-19_01_Documents-segmentation.pdf&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3T6oqPVJT7U?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h1 id=&quot;hand-vessel-identification&quot;&gt;Hand vessel identification&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Александр Ковалев, Максим Калашник, Татьяна Мелешенко&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Аутентификация личности — весьма интересная задача. Один из способ ее решения, если идентификация людей по венам пальцев. На докладе вы узнаете, что получилось у команды молодых студентов с ФКН ОмГУ за два месяца работы над проектом.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/assets/presentations/2018-05-19_02_Hand-vessel-identification.pdf&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/TDXa1-wlJV8?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h1 id=&quot;распознавание-и-решение-простейших-математических-выражений&quot;&gt;Распознавание и решение простейших математических выражений&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Александр Лапин, Александр Плотников&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Графическое изображение разбивается на отдельные символы, каждый из которых отправляется в нейросеть для определения. Весь этот алгоритм лежит на сервере. Приложение на Android имеет область для рисования и отправляет POST запросы. Результат сервера вычисляется калькулятором и выдается результат.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/assets/presentations/2018-05-19_03_formulas-recognition.pdf&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFpZe3yH1bo?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h1 id=&quot;реальная-жизнь-рекомендательных-систем&quot;&gt;Реальная жизнь рекомендательных систем&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Иван Гундырев&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;На примере онлайн-кинотеатра он расскажет о работе системы рекомендаций контента: что происходит до запуска алгоритмов; почему получение базовой таблицы пользователь-контент-рейтинг — это важнейший этап; немного о запретах, ограничениях и фильтрации результатов. Формул будет мало, но будут картинки. В конце доклада немного размышлений о работе с унаследованным кодом.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/assets/presentations/2018-05-19_04_Real-life-of-recommendation-systems.pdf&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/1wuX0FM2cGw?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Лекции 10 февраля 2018</title>
    <link href="https://mlomsk.github.io/2018/02/10/lection/"/>
    <updated>2018-02-10T05:00:00+00:00</updated>
    <id>https://mlomsk.github.io/2018/02/10/lection</id>
