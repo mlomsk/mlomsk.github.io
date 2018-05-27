@@ -4,13 +4,49 @@
  <title>The blog of Клуб Машинного Обучения</title>
  <link href="https://mlomsk.github.io/atom.xml" rel="self"/>
  <link href="https://mlomsk.github.io"/>
- <updated>2018-05-20T15:27:50+00:00</updated>
+ <updated>2018-05-27T15:14:46+00:00</updated>
  <id>https://mlomsk.github.io</id>
  <author>
    <name>Клуб Машинного Обучения</name>
    <email>ilya.blan4@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Tensor Flow Study Jam</title>
+   <link href="https://mlomsk.github.io/2018/05/26/study-jam/"/>
+   <updated>2018-05-26T05:00:00+00:00</updated>
+   <id>https://mlomsk.github.io/2018/05/26/study-jam</id>
+   <content type="html">&lt;div&gt;
+    
+        &lt;img class=&quot;main&quot; src=&quot;https://pp.userapi.com/c846221/v846221323/603bb/TOtBu3e-qa0.jpg&quot; alt=&quot;&quot; /&gt;
+    
+&lt;/div&gt;
+
+&lt;p&gt;Хотите начать изучать машинное обучение, но не знаете с чего начать? Присоединяйтесь к нам на Machine Learning Study Jam, где мы с вами начнем проходить новый курс от Google - Machine Learning Crash Course (MLCC)!&lt;/p&gt;
+
+&lt;p&gt;Курс MLCC для тех людей, которые хотят изучить ML на практике с целью начать применять его на реальных рабочих проектах и использовать всю мощь TensorFlow.
+Если у вас есть некоторые представления о машинном обучении и желание начать применять его на практике, то это мероприятие – отличная возможность стартовать изучение ML и TensorFlow.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;С собой нужно принести ноутбук!&lt;/strong&gt; Или друга с ноутбуком.&lt;/p&gt;
+
+&lt;p&gt;План занятия:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;11:00: Начало мероприятия&lt;/li&gt;
+  &lt;li&gt;11:30: Обзор курса, настройка программ и прохождение первых 3 модулей.&lt;/li&gt;
+  &lt;li&gt;13:15: Перерыв&lt;/li&gt;
+  &lt;li&gt;13:30: TensorFlow модуль&lt;/li&gt;
+  &lt;li&gt;15:00: Конец мероприятия, групповое фото.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.meetup.com/GDG-Omsk/events/250683108/&quot;&gt;MeetUp Event&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://developers.google.com/machine-learning/crash-course/ml-intro&quot;&gt;Google ML Crash Course&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://mlomsk.github.io/blog/2017/12/21/courses&quot;&gt;Список курсов&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;&lt;a href=&quot;https://senior-sigan.ml/2017/01/19/machine-learning-sources/&quot;&gt;Полезные материалы по Машинному Обучению и анализу данных&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://courses.itlft.ru/data-science&quot;&gt;Курс от IT-lift в Омске&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Лекции 19 мая 2018</title>
