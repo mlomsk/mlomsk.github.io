@@ -625,22 +625,26 @@ a.post-url {
   text-decoration: none;
 }
 
+a.post-url:visited {
+  color: black;
+}
+
 .blue {
   color: #3e50b4;
 }
 
 a {
-  color: #black;
+  color: #59806f;
   text-decoration: none;
 }
 
 a:hover {
-  color: #black;
+  color: #59806f;
   text-decoration: underline;
 }
 
 a:visited {
-  color: #black;
+  color: #59806f;
 }
 
 table {
