@@ -4,13 +4,52 @@
  <title>The blog of Клуб Машинного Обучения</title>
  <link href="https://mlomsk.github.io/atom.xml" rel="self"/>
  <link href="https://mlomsk.github.io"/>
- <updated>2018-12-09T10:29:50+00:00</updated>
+ <updated>2019-01-26T15:23:17+00:00</updated>
  <id>https://mlomsk.github.io</id>
  <author>
    <name>Клуб Машинного Обучения</name>
    <email>ilya.blan4@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Лекции 26 января 2019</title>
+   <link href="https://mlomsk.github.io/2019/01/26/lection/"/>
+   <updated>2019-01-26T05:00:00+00:00</updated>
+   <id>https://mlomsk.github.io/2019/01/26/lection</id>
+   <content type="html">&lt;h1 id=&quot;классификация-паттернов-белков&quot;&gt;Классификация паттернов белков&lt;/h1&gt;
+
+&lt;p&gt;Недавно на платформе kaggle.com проходило соревнование по классификации паттернов белка &lt;a href=&quot;https://www.kaggle.com/c/human-protein-atlas-image-classification&quot;&gt;Human Protein Atlas Image Classification&lt;/a&gt;. Наш особый докладчик расскажет вам про то, как проходят соревнования по машинному обучению. Как он решил задачу с классификацией медицинских изображений белка, какие хаки он применял, какие новые знания он получил. А также он расскажет, что такое шаффл на лидерборде и сколько нужно видеокарт для счастья.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/assets/presentations/2019-01-26_01_Documents-kaggle-protein-atlas.pdf&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/-Wu3M9m3Q7k?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h1 id=&quot;как-работают-gan-модели&quot;&gt;Как работают GAN модели&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Николай Линкер&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;“Я расскажу, как устроены состязательные нейросети (GANы), почему они могут быть использованы для генерации изображений, какие трудности с ними возникают, как сделать плавное перетекание одного изображения в другое. Это доклад базового уровня.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://nlinker.github.io/presentations/08_how-do-GANs-work/index-ru.html&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/OCBq8NBawhk?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h1 id=&quot;cyclegan-или-превращение-людей-в-аниме&quot;&gt;CycleGAN или превращение людей в аниме&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Илья Сиганов&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;“Генерировать котиков из кривых скетчей? Нет? А может перекрасить всех лошадей в зебр? Не достаточно? Хм, а может превратить зиму в лето? ИЛИ МОЖЕТ ПРЕВРАЩАТЬ ЛЮДЕЙ В АНИМЕ???&lt;/p&gt;
+
+&lt;p&gt;Говорят нынешние нейросети и не такое могут! Но как это стало вообще возможно? А дело в том, что как-то раз ребята из исследовательской лабы Беркли обратились в шоу «Нейросеть на прокачку» и там им предложили встроить одну GAN модель в другую GAN модель. И после этого завер…..&lt;/p&gt;
+
+&lt;p&gt;На лекции я вам расскажу, как работает CycleGAN и на что он способен. Придумаем вместе, чтобы еще с ним сделать.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://bit.ly/cyclegan_anime&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/s8F4rjiJsC4?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Tensor Flow Study Jam</title>
