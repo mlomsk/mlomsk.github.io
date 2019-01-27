@@ -4,7 +4,7 @@
  <title>The blog of Клуб Машинного Обучения</title>
  <link href="https://mlomsk.github.io/atom.xml" rel="self"/>
  <link href="https://mlomsk.github.io"/>
- <updated>2019-01-26T15:23:17+00:00</updated>
+ <updated>2019-01-27T08:14:20+00:00</updated>
  <id>https://mlomsk.github.io</id>
  <author>
    <name>Клуб Машинного Обучения</name>
@@ -33,7 +33,7 @@
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://nlinker.github.io/presentations/08_how-do-GANs-work/index-ru.html&quot;&gt;Слайды&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/OCBq8NBawhk?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/M6YgtW8_b_A?color=white&amp;amp;theme=light&amp;amp;rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;h1 id=&quot;cyclegan-или-превращение-людей-в-аниме&quot;&gt;CycleGAN или превращение людей в аниме&lt;/h1&gt;
 
